@@ -64,3 +64,14 @@ vmess://eyJhZGQiOiJkb2ctdHcua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQi
 ss://YWVzLTEyOC1nY206WU55TUJ2YzYwT0h4YXM1cmtZS25SZEZka1hNYiswdTY@66.23.204.190:12085?#🇺🇸_64_USA_hzktoeto
 ss://YWVzLTEyOC1nY206ZjZPaC9hTWYzUUhBalRqcU1CcGNhRGJtSDh3TDRueHo@69.164.240.86:10880?#🇺🇸_65_USA_hzktoeto
 ss://YWVzLTI1Ni1nY206MTIzNDU2QDguMjExLjEyOS44MDo1NTU1#🌐_66_Unknown_hzktoeto
+socks5://199.116.112.6:4145/#🌐_67_Unknown_hzktoeto
+socks5://UBXich0K:VvUAFi2E@72.57.228.30:62000#🌐_68_Unknown_hzktoeto
+socks://Snp1ZmlKNjI6NzViUG9SY0I%3D@216.132.114.27:62000#🇺🇸_69_USA_hzktoeto
+socks://TDh3UDNrUXg6Wm41bVI3dkE%3D@144.56.22.78:42000#🇫🇷_70_France_hzktoeto
+socks://VGVrMng2YXY6REp5MVQwZHQ%3D@144.225.47.8:42000#🇲🇽_71_Mexico_hzktoeto
+socks://VGVrMng2YXY6REp5MVQwZHQ@144.225.47.8:42000#🌐_72_Unknown_hzktoeto
+socks://VUJYaWNoMEs6VnZVQUZpMkU%3D@72.57.228.30:62000#🇲🇽_73_Mexico_hzktoeto
+socks://dTFmMGNpamo6cHB5ZWZlM2s%3D@23.230.200.176:62000#🇺🇸_74_USA_hzktoeto
+socks://dXNlckxSZ0s6S3NQQXhaR24%3D@94.194.166.52:42000#🇲🇽_75_Mexico_hzktoeto
+socks://dXNlcmViN2Q6YzBhMzRh@66.80.2.252:62000#🇸🇬_76_Singapore_hzktoeto
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSkNIVTFzVjM0TTVUVzRkNExIOFNHbkp0NXhtT2ZZMw@bash.mrvservice.ir:3230?#🌐_77_Unknown_hzktoeto
